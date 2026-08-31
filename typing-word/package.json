@@ -52,7 +52,7 @@
     "esm": "3.2.25",
     "gulp": "5.0.0",
     "husky": "8.0.3",
-    "push-dir": "0.4.1",
+    "push-dir": "0.4.2",
     "rollup-plugin-visualizer": "5.9.2",
     "sass": "1.64.2",
     "tslib": "2.6.2",
